@@ -1,0 +1,436 @@
+/* Start here ↓ */
+
+position: absolute;
+width: 341px;
+height: 174px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 87px;
+display: flex;
+align-items: center;
+letter-spacing: -0.017em;
+
+color: #000000;
+
+
+
+/* Fuschia 100 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Fuschia/100 */
+background: #EF5DA8;
+border-radius: 3px;
+
+
+/* Fuschia 80 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Fuschia/80 */
+background: #F178B6;
+border-radius: 3px;
+
+
+/* Fuschi 60 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Fuschia/60 */
+background: #FCDDEC;
+border-radius: 3px;
+
+
+/* Iris 100 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Iris/100 */
+background: #5D5FEF;
+border-radius: 3px;
+
+
+/* Iris 80 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Iris/80 */
+background: #7879F1;
+border-radius: 3px;
+
+
+/* Iris 60 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+/* Iris/60 */
+background: #A5A6F6;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Color */
+
+position: absolute;
+width: 40px;
+height: 40px;
+
+background: #D8D8D8;
+border-radius: 3px;
+
+
+/* Button */
+
+position: absolute;
+width: 65px;
+height: 38px;
+
+background: #AFAFAF;
+border-radius: 1000px;
+
+
+/* Button */
+
+position: absolute;
+width: 39px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Header 1 */
+
+position: absolute;
+width: 142px;
+height: 41.67px;
+
+/* Header 1 */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 40px;
+letter-spacing: -0.02em;
+
+color: #0E0E2C;
+
+
+
+/* Header 2 */
+
+position: absolute;
+width: 92.61px;
+height: 26.24px;
+
+/* Header 2 */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.02em;
+
+color: #0E0E2C;
+
+
+
+/* Body */
+
+position: absolute;
+width: 32.41px;
+height: 15.43px;
+
+/* Body */
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+/* identical to box height */
+letter-spacing: -0.02em;
+
+color: #0E0E2C;
+
+
+
+/* Body small */
+
+position: absolute;
+width: 70px;
+height: 16px;
+
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Button text */
+
+position: absolute;
+width: 71px;
+height: 16px;
+
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Link text */
+
+position: absolute;
+width: 54px;
+height: 16px;
+
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* I’m a title */
+
+position: absolute;
+width: 59px;
+height: 16px;
+
+font-family: 'Droid Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Cursor/Pointer */
+
+position: relative;
+width: 32px;
+height: 32px;
+
+
+
+/* Cursor/Default */
+
+position: relative;
+width: 32px;
+height: 32px;
+
+
+
+/* main */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* main/search */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* main/hair */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* main/hair2 */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* main/create_design_start */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* Examples/Detailed view-Web */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* main/create_design_fin */
+
+position: relative;
+width: 905px;
+height: 680px;
+
+/* M3/sys/light/surface */
+background: #F5FAFD;
+/* M3/sys/light/outline-variant */
+border: 8px solid #BFC8CC;
+border-radius: 18px;
+
+
+/* Search view modal
+
+Search allows users to enter a keyword or phrase and get relevant information. It’s an alternative to other forms of navigation.
+––
+Additional options 
+List items - Change list items by selecting the individual list item and editing the variant properties.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 627px;
+min-width: 360px;
+max-width: 720px;
+height: 129px;
+
+/* M3/sys/light/inverse-on-surface */
+background: #EAEFF1;
+opacity: 0.9;
+border-radius: 28px;
